@@ -13,7 +13,7 @@
       "label": "Mes objets",
       "path": "packs/items.db",
       "entity": "Item",
-      "module": "SharedData"
+      "module": "wfrp4e-ss-fr"
     },
     {
       "name": "ss-fr-pj",
