@@ -39,7 +39,7 @@
   ],
   "languages": ["fr"],
   "minimumCoreVersion": "0.6",
-  "manifest": "",
-  "download": "",
-  "url": ""
+  "manifest": "https://raw.githubusercontent.com/LeoGrosjean/FVTT-WFRP4e-starter-set-fr/master/module.json",
+  "download": "https://github.com/LeoGrosjean/FVTT-WFRP4e-starter-set-fr/archive/master.zip",
+  "url": "https://github.com/LeoGrosjean/FVTT-WFRP4e-starter-set-fr"
  }
