@@ -1,0 +1,45 @@
+{   
+   "name": "wfrp4e-ss-fr",
+   "title": "WFRP4E starter set fr",
+   "description": "Sharing data across worlds",   
+   "author": "Kyllian",
+   "systems": ["wfrp4e"],
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.6",
+   "compatibleCoreVersion":"0.6",
+   "packs": [
+    {
+      "name": "ss-fr-objet",
+      "label": "Mes objets",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "ss-fr-pj",
+      "label": "Mes PJ",
+      "path": "packs/PJ.db",
+      "entity": "Actor",
+      "module": "wfrp4e-ss-fr"
+    },
+    {
+      "name": "ss-fr-pnj",
+      "label": "PNJ",
+      "path": "packs/PNJ.db",
+      "entity": "Actor",
+      "module": "wfrp4e-ss-fr"
+    },
+    {
+      "name": "ss-fr-scene",
+      "label": "My Scenes",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
+      "module": "wfrp4e-ss-fr"
+    }
+  ],
+  "languages": ["fr"],
+  "minimumCoreVersion": "0.6",
+  "manifest": "",
+  "download": "",
+  "url": ""
+ }
